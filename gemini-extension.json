@@ -1,0 +1,10 @@
+{
+  "name": "tume-ai",
+  "version": "2.0.11",
+  "description": "Read-only energy market data: ISO prices, load, generation, regulatory dockets and weather.",
+  "mcpServers": {
+    "tume-ai": {
+      "httpUrl": "https://mcp.tume.ai/mcp"
+    }
+  }
+}

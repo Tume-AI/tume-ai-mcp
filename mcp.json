@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tume-ai": {
+      "type": "http",
+      "url": "https://mcp.tume.ai/mcp"
+    }
+  }
+}

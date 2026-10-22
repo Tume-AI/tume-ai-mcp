@@ -1,0 +1,19 @@
+{
+  "name": "tume-ai",
+  "displayName": "Tume AI",
+  "version": "2.0.11",
+  "description": "Read-only energy market data: ISO prices, load, generation, regulatory dockets and weather, through one hosted MCP server.",
+  "author": {
+    "name": "Akintonde Abbas",
+    "email": "akintonde.abbas@tume.ai"
+  },
+  "publisher": "Tume AI, Inc",
+  "homepage": "https://tume.ai",
+  "repository": "https://github.com/Tume-AI/tume-ai-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["energy", "electricity", "power-markets", "ercot", "pjm", "caiso", "eia", "regulatory", "mcp"],
+  "category": "integrations",
+  "tags": ["energy", "data", "mcp"],
+  "mcpServers": "./mcp.json"
+}
