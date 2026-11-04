@@ -1,7 +1,7 @@
 {
   "name": "tume-ai",
   "displayName": "Tume AI",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "description": "Read-only energy market data: ISO prices, load, generation, regulatory dockets and weather, through one hosted MCP server.",
   "author": {
     "name": "Akintonde Abbas",
